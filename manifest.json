@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "uuid": "b84e61c1-f142-4adf-9bc0-59a599c8af8b",
+        "name": "Skeleton",
+        "description": "Skeleton v1 by NotMalware.Exe (Tynker)",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            19,
+            52
+        ]
+    },
+    "modules": [
+        {
+            "description": "Skeleton v1 by NotMalware.Exe (Tynker)",
+            "type": "resources",
+            "version": [
+                1,
+                0,
+                0
+            ],
+            "uuid": "743f6949-53be-44b6-b326-398005028819"
+        }
+    ]
+}
